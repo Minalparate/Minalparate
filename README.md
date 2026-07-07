@@ -15,7 +15,7 @@
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,github,vscode,mysql" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minal-parate-742368338)
-[![Email](https://img.shields.io/badge/Email-abc123@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minalparate47@gmail.com)
+[![Email](https://img.shields.io/badge/Email-minalparate47@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minalparate47@gmail.com)
 
 ---
 
