@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there! 👋 I'm a CSE (AIML) Student
 
-<!--
-**Minalparate/Minalparate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science Engineering (Artificial Intelligence & Machine Learning) student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about programming, problem-solving, and building real-world projects.
+
+🌱 Currently learning Data Structures & Algorithms, AI, Machine Learning, and Full Stack Development.
+
+🚀 Always eager to learn new technologies and improve my coding skills.
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Structures & Algorithms
+- 🌐 Web Development
+- 🐍 Python
+- ☕ Java
+
+---
+
+## 🎯 Goals
+
+- 💻 Build impactful AI & ML projects
+- 🏆 Strengthen DSA skills
+- 🌍 Contribute to Open Source
+- 📈 Continuously improve as a Software Developer
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minalparate&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minalparate&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minal-parate-742368338)
+
+---
+
+### 💻 Quote
+
+> "Code. Learn. Build. Repeat. 🚀"
+
+⭐ Thanks for visiting my profile!
