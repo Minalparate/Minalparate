@@ -39,11 +39,12 @@
 - 📈 Continuously improve as a Software Developer
 
 ---
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minal-parate-742368338)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=minalparate47@gmail.com)--
+
+📧 **Email:** minalparate47@gmail.com
+
 
 ### 💻 Quote
 
